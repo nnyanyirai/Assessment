@@ -11,3 +11,5 @@ Or run the below db script (DB_Script) shared.
 2. change the database connection strings accordingly
 3. calling on Postman
 4. Comapnies- http://localhost:61187/api/Companies
+6. address- http://localhost:61187/api/Address
+7. Contact-- http://localhost:61187/api/Contact
